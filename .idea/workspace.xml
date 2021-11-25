@@ -29,6 +29,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637675232988</updated>
       <workItem from="1637675236279" duration="82000" />
+      <workItem from="1637800498568" duration="40000" />
     </task>
     <servers />
   </component>
@@ -45,5 +46,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
