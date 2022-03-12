@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94408ffd-70f9-418e-a788-41e3d210ea34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Colletion/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/useful/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colletion/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colletion/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colletion/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colletion/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colletion/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colletion/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colletion/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colletion/Ex9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/useful/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/useful/Ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/useful/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/useful/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Colletion/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Colletion/Ex1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Colletion/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Colletion/Ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +45,7 @@
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Ex2">
+  <component name="RunManager" selected="Application.Ex5">
     <configuration name="Ex1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="useful.Ex1" />
       <module name="JavaBasic" />
@@ -53,25 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date.Ex1" />
+    <configuration name="Ex1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Colletion.Ex1" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date.Ex2" />
-      <module name="JavaBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Date.*" />
+          <option name="PATTERN" value="Colletion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Colletion.Ex5" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Colletion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex5" />
+        <item itemvalue="Application.Ex1 (2)" />
         <item itemvalue="Application.Ex2" />
         <item itemvalue="Application.Ex1 (1)" />
         <item itemvalue="Application.Ex4" />
-        <item itemvalue="Application.Ex2 (1)" />
-        <item itemvalue="Application.Ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +137,8 @@
       <workItem from="1646527125799" duration="64000" />
       <workItem from="1646563183843" duration="404000" />
       <workItem from="1646698754472" duration="1410000" />
+      <workItem from="1646804177867" duration="1049000" />
+      <workItem from="1647063803960" duration="2282000" />
     </task>
     <servers />
   </component>
